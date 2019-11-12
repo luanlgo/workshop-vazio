@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Infra\\ToDoListSln.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\ToDoListSln.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\ToDoListSln.Domain.csproj",
+        "projectName": "ToDoListSln.Domain",
+        "projectPath": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\ToDoListSln.Domain.csproj",
+        "packagesPath": "C:\\Users\\luan.milano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luan.milano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Infra\\ToDoListSln.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Infra\\ToDoListSln.Infra.csproj",
+        "projectName": "ToDoListSln.Infra",
+        "projectPath": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Infra\\ToDoListSln.Infra.csproj",
+        "packagesPath": "C:\\Users\\luan.milano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luan.milano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\ToDoListSln.Domain.csproj": {
+                "projectPath": "C:\\Users\\luan.milano\\Desktop\\workshop\\backend-workshop-vazio\\workshop-vazio\\ToDoListSln\\ToDoListSln.Domain\\ToDoListSln.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

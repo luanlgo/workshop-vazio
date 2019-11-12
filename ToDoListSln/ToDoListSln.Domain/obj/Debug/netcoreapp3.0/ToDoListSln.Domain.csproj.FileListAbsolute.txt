@@ -1,0 +1,7 @@
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\bin\Debug\netcoreapp3.0\ToDoListSln.Domain.deps.json
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\bin\Debug\netcoreapp3.0\ToDoListSln.Domain.dll
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\bin\Debug\netcoreapp3.0\ToDoListSln.Domain.pdb
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\obj\Debug\netcoreapp3.0\ToDoListSln.Domain.AssemblyInfoInputs.cache
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\obj\Debug\netcoreapp3.0\ToDoListSln.Domain.AssemblyInfo.cs
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\obj\Debug\netcoreapp3.0\ToDoListSln.Domain.dll
+C:\Users\luan.milano\source\repos\ToDoListSln\ToDoListSln.Domain\obj\Debug\netcoreapp3.0\ToDoListSln.Domain.pdb
